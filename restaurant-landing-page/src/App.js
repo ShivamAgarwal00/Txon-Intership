@@ -10,7 +10,10 @@ function App() {
   return (
     <div className="App">
       <Home />
+      <section id = "2">
       <About />
+      </section>
+      
       <Work />
       <Testimonial />
       <Contact />
